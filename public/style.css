@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image:url(img/ab.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+img{
+  height: 200px;
+}
+.hide{
+  display: none;
+}
+h1, h2, h3, ul{
+  color:white;
+}
